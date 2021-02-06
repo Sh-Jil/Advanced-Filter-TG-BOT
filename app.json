@@ -45,21 +45,21 @@
       },      
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
-         "value": "636052499"
+         "value": "727037917"
       },
       "OWNER_NAME": {
          "description": "Your Name",
-         "value": "AIDEN"
+         "value": "shijilraj"
       },
       "API_HASH": {
          "description": "Get This Value From @USETGXBOT",
          "required": true,
-         "value": " "
+         "value": "6b21cb22818e09132fb904705c31d3a1"
       },
       "API_ID": {
          "description": "GET This Value From @USTGXBOT.",
          "required": true,
-         "value": " "
+         "value": "1479154"
       },
       "DEV_USERS": {
          "description": "ID of users who are Dev (can use /py etc.)",
@@ -69,7 +69,7 @@
       },
        "START_IMG": {
          "description": "Image shows when hit /start",
-         "value": "https://www.whykol.com/wp-content/uploads/2013/10/parakkum-thalika-harisree-ashokan.jpg"    
+         "value": "https://telegra.ph/file/0aa1618b5d2761581ebe8.jpg"    
      
       },
       "PORT": {
@@ -79,7 +79,7 @@
       },
       "FTR_LIM": { 
          "description": "Limit Of Filters That Can Be Added In A Group🤔", 
-         "required": true, 
+         "required": false, 
          "value": "1000"
      
       },
@@ -117,7 +117,7 @@
       "LYDIA_API": {
          "description": "Put here lydia API.",
          "required": false,
-         "value": " " 
+         "value": "1fad1ce7269423487a96941e3a4eee2d1181df83c2733fcd72d8026855092e12f9fb6c6a857a86d7261bdd2823ade4a525d6490dc022444bf20d1b664da3f16f " 
       }
    },
    "keywords": [
@@ -129,7 +129,7 @@
       
    ],
    "name": "Filter BOT",
-   "repository": "https://github.com/Aid-3n/Advanced-Filter-BOT",
-   "success_url": "https://telegram.dog/AID_3N",
+   "repository": "https://github.com/Sh-Jil/Advanced-Filter-BOT",
+   "success_url": "https://telegram.dog/shijilraj",
    "logo": "https://pbs.twimg.com/profile_images/689189555765784576/3wgIDj3j_400x400.png"
 }

@@ -12,11 +12,11 @@ class Config(object):
     LOGGER = True
 
     # REQUIRED
-    API_KEY = "YOUR BOT TOKEN HERE"
-    OWNER_ID = "YOUR OWN ID HERE"  # If you dont know, run the bot and do /id in your private chat with it
-    OWNER_USERNAME = "YOUR USERNAME HERE"
-    API_ID = "" # Your api id
-    API_HASH = "" # Your api hash
+    API_KEY = "1628214746:AAF6e7d7hwLDo8xQgyqmzxdhX7r4BXgAtCI"
+    OWNER_ID = "727037917"  # If you dont know, run the bot and do /id in your private chat with it
+    OWNER_USERNAME = "shijilraj"
+    API_ID = "1479154" # Your api id
+    API_HASH = "6b21cb22818e09132fb904705c31d3a1" # Your api hash
 
     # RECOMMENDED
     SQLALCHEMY_DATABASE_URI = 'sqldbtype://username:pw@hostname:port/db_name'  # needed for any database modules
@@ -48,7 +48,7 @@ class Config(object):
     TIME_API_KEY = None # Get one from https://timezonedb.com/register
     WALL_API = None
     LASTFM_API_KEY = None
-    LYDIA_API = None
+    LYDIA_API = "1fad1ce7269423487a96941e3a4eee2d1181df83c2733fcd72d8026855092e12f9fb6c6a857a86d7261bdd2823ade4a525d6490dc022444bf20d1b664da3f16f"
     API_OPENWEATHER = None
     
    

@@ -1,2 +1,2 @@
-worker: python3 -m cinderella
-ps:scale worker=1
+web: python3 -m cinderella
+heroku ps:scale web=1
